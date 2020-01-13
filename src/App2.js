@@ -206,7 +206,7 @@ function App2() {
                    <center className="header transport cent">Lansdowne Hotel<br/>
                     1 Lansdowne Road<br/>
                     Croydon, <br/>
-                    CR9 2BN</center> 
+                    CR0 2AD</center> 
                     
                     <SimpleMap/>
                     <p className="header transport cent">
