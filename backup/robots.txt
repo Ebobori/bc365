@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /home2/
+Disallow: /Home/
+SITEMAP: bc365.org.uk/sitemap.xml

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url('font/Rubik-Regular.eot');
+    src: url('font/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('font/Rubik-Regular.woff2') format('woff2'),
+        url('font/Rubik-Regular.woff') format('woff'),
+        url('font/Rubik-Regular.svg#Rubik-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik Bold';
+    src: url('font/Rubik-Bold.eot');
+    src: url('font/Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+        url('font/Rubik-Bold.woff2') format('woff2'),
+        url('font/Rubik-Bold.woff') format('woff'),
+        url('font/Rubik-Bold.svg#Rubik-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+ul li a{font-family: 'Rubik'; font-weight: normal; font-style: normal; font-size: 25px;}
+h1, h2, h3, h4, h5{
+    font-family: 'Rubik Bold'; font-weight: bold;  
+}
+
+p, a, li{
+    font-family: 'Rubik'; font-weight: normal;
+
+}
+
+.level-3 p.cent{
+    font-family: 'Rubik'; font-weight: normal;
+}
+
+.level-3 p.cent2, .reasonboxes p.header, .level-speakers .header, .level-schedule .header, .orangebox .header, .actionbtn.btn.btn-primary, .actionbtn2.btn.btn-primary{
+    font-family: 'Rubik Bold'; font-weight: bold; 
+}
+
+.timeline li{
+    font-family: 'Rubik'; font-weight: normal;
+
+}

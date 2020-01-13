@@ -1,0 +1,24 @@
+<svg id="section_5" data-name="section 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1433" height="537" viewBox="0 0 1433 537">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle" width="1433" height="537" rx="5" transform="translate(0.017 -0.187)" fill="#fe5149"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1351 901">
+      <image width="1351" height="901" xlink:href="Book-again-image.png"/>
+    </pattern>
+  </defs>
+  <g id="image" transform="translate(-0.017 0.187)">
+    <rect id="Rectangle-2" data-name="Rectangle" width="1433" height="537" rx="5" transform="translate(0.017 -0.187)" fill="#fe5149"/>
+    <g id="image-2" data-name="image" clip-path="url(#clip-path)">
+      <rect id="Bitmap" width="1433" height="957" transform="translate(0.017 -0.187)" opacity="0.105" fill="url(#pattern)"/>
+    </g>
+  </g>
+  <g id="texts" transform="translate(187.038 84.565)">
+    <text id="Hurry_up_Book_your" data-name="Hurry up! Book your" transform="translate(-0.038 75.434)" fill="none" font-size="70" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="0" y="0">Hurry up! Book your seat now</tspan></text>
+    <text id="Seats_are_limited._S" data-name="Seats are limited. S" transform="translate(166.962 157.434)" fill="none" font-size="29" font-family="Rubik-Regular, Rubik"><tspan x="0" y="0">Seats are limited. So register quickly to grab a seat</tspan></text>
+  </g>
+  <g id="button" transform="translate(525.568 339.218)">
+    <rect id="Rectangle-3" data-name="Rectangle" width="381" height="101" rx="8" transform="translate(0.432 0.782)" fill="none"/>
+    <text id="BOOK_NOW" data-name="BOOK NOW" transform="translate(95.432 62.782)" fill="none" font-size="32" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">BOOK NOW</tspan></text>
+  </g>
+</svg>
